@@ -2,7 +2,7 @@ module Monads where
 
 open import Level
 open import Categories.Category
-open import Categories.Monad
+open import Categories.Monad hiding (id)
 open import Categories.Object.Terminal
 open import Categories.Object.Exponential
 open import Categories.Functor renaming (id to idF)

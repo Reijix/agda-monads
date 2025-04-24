@@ -1,0 +1,6 @@
+*.agdai
+MAlonzo/**
+agda-poset
+.vscode
+.direnv/
+agda-monads/
